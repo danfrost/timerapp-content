@@ -1,0 +1,122 @@
+- title: Pomadoro debug
+  subtitle: The classic productivity hack
+  desc: Chunk up your work into 25 minutes slots. This activity gives you 3 active slots with 5 minute breaks between each.
+  requirements:
+    - asdfasdf
+    - wfefwfwef
+    - iuiuhiuhuih
+  steps:
+    - title: 1. Prepare your work
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 2. First work session
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 3. Take a break
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 4. Second work session
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 5. Take a break
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 6. Third work session
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 7. Take a break
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 8. Fourth work session
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 9. Take a break
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+    - title: 10. Reflect and organise
+      duration: 10
+      details:
+        - detail 1
+        - detail 2
+- title: Pomadoro class
+  subtitle: The classic productivity hack
+  desc: Chunk up your work into 25 minutes slots. This activity gives you 3 active slots with 5 minute breaks between each.
+  requirements:
+    - asdfasdf
+    - wfefwfwef
+    - iuiuhiuhuih
+  steps:
+    - title: Prepare your work
+      duration: 120
+      details:
+        - detail 1
+        - detail 2
+    - title: First work session
+      duration: 600
+      details:
+        - detail 1
+        - detail 2
+    - title: Take a break
+      duration: 60
+      details:
+        - detail 1
+        - detail 2
+    - title: Second work session
+      duration: 600
+      details:
+        - detail 1
+        - detail 2
+    - title: Take a break
+      duration: 60
+      details:
+        - detail 1
+        - detail 2
+    - title: Reflect and organise
+      duration: 120
+      details:
+        - detail 1
+        - detail 2
+- title: Get organised
+  subtitle: Review what you've got on
+  desc: Basic GTD review session
+  requirements:
+    - asdfasdf
+    - wfefwfwef
+    - iuiuhiuhuih
+  steps:
+    - title: collect your tasks
+      duration: 2
+    - title: organise them into urgent and not
+      duration: 2
+- title: Count to 10
+  subtitle: liu awflihu aliuefw
+  desc: fieuwh iwufh lwuehf liauhewf liuhaw efliha lfueih aiwlefuh aliuehf
+  requirements:
+    - asdfasdf
+    - wfefwfwef
+    - iuiuhiuhuih
+  steps:
+    - title: collect your tasks
+      duration: 2
+    - title: organise them into urgent and not
+      duration: 2
+
+

@@ -1,5 +1,5 @@
 - title: Pomadoro debug fixed now
-  subtitle: The classic productivity hack
+  subtitle: The classic productivity hack. In debug (fast) mode.
   desc: Chunk up your work into 25 minutes slots. This activity gives you 3 active slots with 5 minute breaks between each.
   requirements:
     - asdfasdf

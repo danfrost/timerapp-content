@@ -1,221 +1,814 @@
-- title: Design Sprint 
-  subtitle: Day 1 Map and Sketch
-	desc: Day One of Design Sprint 2.0 based on the work of Jake Knapp and AJ&Smart (shall we add the link to their youtube channel). This workshop will help you solve big problem very fast! but it requires some knowledge of Design Sprint. Watch the AJ&Smart video or read the book before going full on sprinting. Good luck and have fun!,
-	requirements:
-		- Post-its (different colours and sizes)
-		- Voting dots (different colours and sizes)
-		- Sharpies
-		- A4 paper
-		- Some sort of wall or white board to put post-its on
-		- Group of awesome and motivated individuals
-	steps:
-		- title: Introductions
-		duration: 900
-		details:
-			- Make sure every one has a coffee, tea or water
-			- Get some icebreaker under your sleeve
-			- Happy people makes nicer workshop
-		- title: Explanation,
-		duration: 900
-		details:
-			- Set expectations
-			- Choose a person to be a Decider (they hold the final vote)
-			- Decider should be somebody that is heavily invested in the product, like Product Manager/Owner
-		- title: Expert interview + HMW?
-		duration: 1500
-		details:
-			- Hand post-its and Sharpies to everyone
-			- Make sure people have teas, coffees and get people talking
-			- First ask every one to put HMW? on the top left of the post-it
-			- Ask everyone to take notes while listening to colleague in form of questions, e.g. How might we...? One question per post-it
-			- Some conversation starters:
-1. What problem are we trying to solve?
-2. Why are we trying to solve that problem?
-3. Who are the end users?
-4. What do we know about the end user?
-5. What product are we proposing to build?
-		- title: Organise the HMWs
-		duration: 600
-		details:
-			- Get everyone of their butts
-			- Ask participants to put the pos-its on a wall/board
-			- Ask people to categorise and group the post-its. You as a moderator put the category names on a different colour post-it
-			- Tip: this part gets everyone to read other people ideas, so thats pretty cool!
-		- title: Vote on HMW?
-		duration: 600
-		details:
-			- Give every one 2 voting dots (decider person gets 4 votes)
-			- Ask people to vote for the most important HMW which they think is the one that need most focus
-			- Create a voting tree. Most votes go on top
-		- title: Comfort break
-		duration: 300
-		details:
-			- take a coffee or a leak or just get people chatting
-		- title: Long-term Goal
-		duration: 300
-		details:
-			- Ask everyone to put "in 2 years time" on the top of the post-it
-			- Get everyone to write dow what the goal should be. One goal per person!
-			- Get people to put their goals on post-its on a wall and as they do it get them to read the goal out-loud.
-		- title: Vote on long-term goal
-		duration: 300
-		details:
-			- Give everyone one vote
-			- Cluster the post-its
-			- Ask people to vote
-			- Get decider to choose which Goal to focus on (in case of a tie)
-		- title: Sprint Question
-		duration: 900
-		details:
-			- Get every one to think what can go wrong when trying to achieve the chosen Goal
-			- Ask people to add "can we..." on top of the post it
-			- Ask everyone to think of 2-3 "can we..." questions
-		- title: Vote on Sprint Questions
-		duration: 600
-		details:
-			- Give everyone 3 votes
-			- Get everyone to stand up and put their questions on the board/wall
-			- Let everyone get familiar with all the questions
-			- Get everyone to choose the top 3 questions that team needs to focus on
-			- After the question have been chosen, get decider to pick on of those as most cruciol question
-		- title: Make a note
-		duration: 300
-		details:
-			- As a facilitator write down the sprint goal and the 3 sprint question which have been voted for on a whiteboard
-			- this will be a reminder of what team is trying to achieve for the duration of the sprint
-			- Must be visible to everyone
-			- You can let people start their comfort break
-		- title: Comfort break
-		duration: 300
-		details:
-			- take a coffee or a leak or just get people chatting
-		- title: Map
-		duration: 1800
-		details:
-			- As a facilitator write down the following on a whiteboard (in form of a table): Header row: Discover, Learn, Use, Goal. Then add a user type in the very first column, e.g. Customer. Now discuss as a team what are customer touchpoint with your services.
-			- Discover - how does, e.g. "a customer make their way to your website". GoogleAd, Facebook ad, etc.
-			- Learn - How to customer gets more info about the product you offer, e.g. word of mouth, friend recommendation, read more detail on your website or app store.
-			- Use - customer land on your website
-			- Goal - customer completes a purchase
-		- title: Target the map
-		duration: 900
-		details:
-			- Use the HMW post its and place them agains the touch-points
-			- Draw a circle around the touch points where most WHM appear
-		- title: Break
-		duration: 3600
-		details:
-			- 
-		- title: Lightning Demos
-		duration: 1500
-		details:
-			- Time for inspirations!
-			- This is a short research thing
-			- 3 examples per person, group people and ask to assign a note taker (words or sketches), someone who will make notes of all the big ideas
-			- Ask everyone to browse for internet and search for examples that can be used as a reference to your product
-			- Encourage people to think outside of your industry, focus on patterns and good examples, whether its a signup process or web layout.
-		- title: Lighting Demo Presentation
-		duration: 1200
-		details:
-			- Ask for one person from each team to present their ideas and findings
-			- 4 min per team
-			- Encourage everyone to take notes of things that captured their attention
-		- title: Four-part sketch intro
-		duration: 300
-		details:
-			- Explain what is about to happen
-			- Make sure everyone has some A4 pieces of paper and something to write/draw
-			- Make sure all the Goal, Sprint Questions, Map are on the wall and everyone can see and access it
-		- title: Notes
-		duration: 1200
-		details:
-			- Encourage people to walk around the room and make notes from all the previous exercise
-			- Get them to copy the Goal and Sprint Question on their piece of paper
-		- title: Ideas
-		duration: 1200
-		details:
-			- Now ask people to turn notes into ideas
-			- Get them to start sketching, turning their notes into ideas
-			- Treat it as a warm up exercise for the team before the solution
-		- title: Crazy 8s
-		duration: 600
-		details:
-			- Ask people to fold paper in half, than in half again, and half one more time
-			- so that there are 8 sections on the A4 piece of paper
-			- Now ask everyone to look at their note and ideas and sketch few variation of those ideas, something fast
-		- title: Solution sketch
-		duration: 1800
-		details:
-			- Make it anonymous and encourage to sketch one idea, so that it is focused
-			- Now having taken note, some ideas and different variants its time for more defined solutions
-			- This has to be a self explanatory, encourage people to add annotations
-			- Simple sharpie drawing with annotations in form of post its
-			- Make sure you make people comfortable with ""drawings"" and any sketch is a good sketch, no such thing as bad drawing
-			- Make sure everything is well annotated, words are more important than how it looks like
-		- title: Thank you and see yo u tomorrow
-		duration: 600
-		details:
-			- Make sure everything stays where it is (if you can)
-			- or take pictures for reference and collect everything from the walls
-- title: Pomadoro class
-  subtitle: The classic productivity hack
-  desc: Chunk up your work into 25 minutes slots. This activity gives you 3 active slots with 5 minute breaks between each.
-  requirements:
-    - asdfasdf
-    - wfefwfwef
-    - iuiuhiuhuih
-  steps:
-    - title: Prepare your work
-      duration: 120
-      details:
-        - detail 1
-        - detail 2
-    - title: First work session
+- title: Super mega sprint
+   subtitle: Fast and efficient 60 min workshop plan.
+   desc: If you need to make a decision fast and don't want to waste time for countless meetings, then this is for you. Fast one-hour workshop which will help you bring the team together and get to a decision fast!
+   requirements:
+     - Post-its (different colours and sizes)
+     - Voting dots (different colours and sizes)
+     - Sharpies
+     - A4 paper
+     - Some sort of wall or white board to put post-its on
+     - Group of awesome and motivated individuals
+   steps:
+     - title: Introductions
+       duration: 300
+       details:
+         - Make sure every one has a coffee, tea or water
+         - Names and what they good at (how they can contribute)
+         - Happy people makes nicer workshop
+     - title: Set the context
+       duration: 300
+       details:
+         - Distribute the pos-its, sharpies and paper
+         - Tell everyone why they are here
+     - title: Goal setting
+       duration: 600
+       details:
+         - Depending on the size of the team, ask everyone to write down one goal per post-it. We gonna use a 1-2-4 system. Swipe right.
+         - For one minute everyone individually  will write down 2-3 goals, one per post-it...
+         - Pair people up and give the 2 minutes to talk about the goal they have written down and refine them...
+         -  now in groups of 3-4 team will have 4 minutes to talk more about the goals and refine more...
+         -  Ask each team to put the goals on a white board and as they do it ask them to read out-loud.
+     - title: Vote
+       duration: 300
+       details:
+         - Everyone gets 2 votes...
+         - They can use both on one goal if they wish to
+         - Make a vote tree.
+      - title: Ideas (sketches and notes)
+       duration: 1200
+       details:
+         - First make sure each individual gets a chance to express themselves, so start this part with giving everyone 2-3 minutes to come up with 2-3 ideas which would reach the goal you have voted on in the previous bit...
+         - Now pair up people and let them refine ideas for around 5 mins...
+         - Tip-ask people to move around and keep changing team, gets the blood flowing and stops the stronger individuals to push for what they want to achieve, helps the team spirit
+         - Make even bigger groups 4  or more people and give them 5 minute for more refinement...
+         - Use the last 8 minute to present the ideas to the whole room.
+     - title: Questions
+       duration: 300
+       details:
+         - If any question around the ideas, clear it up now.
+     - title: Vote
+       duration: 300
+       details:
+         - Give everyone 2 votes and get them to choose a concept.
+         - Now you should have a decision within an hour, well fucking done!
+
+     - title: Thank you
+       duration: 300
+       details:
+         - Let everyone know what is going to happen with the ideas and concept and say thank you for contributing!
+- title: Mega sprint
+   subtitle: Fast and efficient 4-hour workshop plan.
+   desc: Fast-paced workshop which will help you with ideation and decision making. Make sure to do some desk research prior to the workshop to help you guide some decision making during this exercise.
+   requirements:
+     - Post-its (different colours and sizes)
+     - Voting dots (different colours and sizes)
+     - Sharpies
+     - A4 paper
+     - Some sort of wall or white board to put post-its on
+     - Group of awesome and motivated individuals
+   steps:
+     - title: Introductions
+       duration: 300
+       details:
+         - Make sure every one has a coffee, tea or water
+         - Names and what they good at (how they can contribute)
+         - Happy people makes nicer workshop
+     - title: Set the context
+       duration: 300
+       details:
+         - Tell everyone why they are here.
+         - Distribute the pos-its, sharpies and paper.
+     - title: Expert interview + HMW?
+       duration: 900
+       details:
+         - Hand post-its and Sharpies to everyone,
+         - Make sure people have teas, coffees and get people talking.
+         - First ask every one to put HMW? on the top left of the post-it.
+         - Ask everyone to take notes while listening to colleague in form of questions, e.g. How might we...? One question per post-it
+         - Some conversation starters; What problem are we trying to solve?; Why are we trying to solve that problem?; Who are the end users?; What do we know about the end user?; What product are we proposing to build?
+     - title: Goal setting
+       duration: 600
+       details:
+         - Depending on the size of the team, ask everyone to write down one goal per post-it. We gonna use a 1-2-4 system...
+         - For one minute everyone individually  will write down 2-3 goals, one per post-it...
+         - Pair people up and give the 2 minutes to talk about the goal they have written down and refine them...
+         - Now in groups of 3-4 team will have 4 minutes to talk more about the goals and refine more..
+         - Ask each team to put the goals on a white board and as they do it ask them to read out-loud.
+     - title: Vote
+       duration: 300
+       details:
+         - Give everyone one vote.
+         - Cluster the post-its.
+         - Get decider to choose which Goal to focus on.
+     - title: Break
+       duration: 600
+       details:
+         - Time to walk to a coffee stand and/or loo :D
+     - title: Map
+       duration: 900
+       details:
+         - As a facilitator write down the following on a whiteboard (in form of a table): Header row-Discover, Learn, Use, Goal. Then add a user type in the very first column, e.g. Customer. Now discuss as a team what are customer touchpoint with your services.
+         - Discover-how does, e.g. "customer makes their way to your website", from GoogleAd, Facebook ad, etc.
+         - Learn-How to customer gets more info about the product you offer, e.g. word of mouth, friend recommendation, read more detail on your website or app store.
+         - Use-customer land on your website.
+         -Goal - customer completes a purchase.
+     - title: Four part sketch intro
+       duration: 300
+       details:
+         - Explain what is about to happen.
+         - Make sure everyone has some A4 pieces of paper and something to write.
+         - Make sure all the Goal, Sprint Questions, Map are on the wall and everyone can see and access it
+     - title: Notes
+       duration: 300
+       details:
+         - Encourage people to walk around the room and make notes from all the previous exercise.
+         - Get them to copy the Goal and Sprint Question on their piece of paper.
+     - title: Ideas
+       duration: 300
+       details:
+         - Now ask people to turn notes into ideas.
+         - Get them to start sketching, turning their notes into ideas.
+         - Treat it as a warm up exercise for the team before the solution
+     - title: Crazy 8s
+       duration: 600
+       details:
+         - Ask people to fold paper in half, than in half again, and half one more time...
+         - ...so that there are 8 sections on the A4 piece of paper.
+         - Now ask everyone to look at their note and ideas and sketch few variation of those ideas, something fast.
+     - title: Solution sketch
+       duration: 600
+       details:
+         - Make it anonymous and encourage to sketch one idea, so that it is focused.
+         - Now having taken notes, having some ideas and different variants it's time for more defined solutions.
+         - This has to be a self explanatory, encourage people to add annotations.
+         - Simple sharpie drawing with annotations in form of post its.
+         - Make sure you make people comfortable with "drawing" and any sketch is a good sketch, no such thing as bad drawing here!
+         - Make sure everything is well annotated, words are more important than how it looks like.
+     - title: Present ideas
+       duration: 600
+       details:
+         - 1 minute per presentation.
+         - Every member of the team will present the concept and why it should be chose for the prototype.
+     - title: Vote presentation
+       duration: 300
+       details:
+         - Give everyone 2 votes and get them to choose a concept.
+         - Now you should have a decision within an hour, well fucking done!
+     - title: Thank you
+       duration: 300
+       details:
+         - Let everyone know what is going to happen with the ideas and concept and say thank you for contributing!
+         - Collect all the sketches, notes and get it ready for the designer(s)
+- title: Super sprint
+   subtitle: Fast and efficient 4-hour workshop plan.
+   desc: Fast-paced workshop which will help you with ideation and decision making. Make sure to do some desk research prior to the workshop to help you guide some decision making during this exercise. You can achieve loads of stuff  during a half day focused workshop. Have fun and innovate!
+   requirements:
+     - Post-its (different colours and sizes)
+     - Voting dots (different colours and sizes)
+     - Sharpies
+     - A4 paper
+     - Some sort of wall or white board to put post-its on
+     - Group of awesome and motivated individuals
+   steps:
+     - title: Introductions
+       duration: 300
+       details:
+         - Make sure every one has a coffee, tea or water
+         - Names and what they good at (how they can contribute)
+         - Happy people makes nicer workshop
+     - title: Expert interview + HMW?
+       duration: 900
+       details:
+         - Hand post-its and Sharpies to everyone.
+         - Make sure people have teas, coffees and get people talking.
+         - First ask every one to put HMW? on the top left of the post-it.
+         - Ask everyone to take notes while listening to colleague in form of questions, e.g. How might we...? One question per post-it.
+         - Some conversation starters: What problem are we trying to solve?; Why are we trying to solve that problem?; Who are the end users?; What do we know about the end user?; What product are we proposing to build?
+     - title: Organise the HMW
+       duration: 600
+       details:
+         - Get everyone off their butts.
+         - Ask participants to put the pos-its on a wall/board.
+         - Ask people to categorise and group the post-its. You as a moderator put the category names on a different colour post-it.
+         - Tip-this part gets everyone to read other people ideas, so thats pretty cool!
+     - title: Vote on HMW?
+       duration: 300
+       details:
+         - Give every one 2 voting dots (decider person gets 4 votes).
+         - Ask people to vote for the most important HMW which they think is the one that need most focus.
+         - Create a voting tree. Most votes go on top.
+     - title: Comfort break
+       duration: 300
+       details:
+         - Break time :D
+     - title: Goal setting
+       duration: 600
+       details:
+         - Depending on the size of the team, ask everyone to write down one goal per post-it. We gonna use a 1-2-4 system...
+         - ... for one minute everyone individually will write down 2-3 goals, one per post-it...
+         - Pair people up and give the 2 minutes to talk about the goal they have written down and refine them...
+         - Now, in groups of 3-4 team will have 4 minutes to talk more about the goals and refine more
+         - Ask each team to put the goals on a white board and as they do it ask them to read out-loud.
+     - title: Vote
+       duration: 300
+       details:
+         - Give everyone one vote.
+         - Cluster the post-its.
+         - Get decider to choose which Goal to focus on.
+     - title: Long-term Goal
+       duration: 300
+       details:
+         - Ask everyone to put "in 2 years time" on the top of the post-it...
+         - Get everyone to write dow what the goal should be. One goal per person!
+         - Get people to put their goals on post-its on a wall and as they do it get them to read the goal out-loud
+     - title: Vote on long-term goal
+       duration: 300
+       details:
+         - Give everyone one vote.
+         - Cluster the post-its.
+         - Get decider to choose which Goal to focus on.
+     - title: Sprint Question
+       duration: 600
+       details:
+         - Get every one to think what can go wrong when trying to achieve the chosen Goal.
+         - Ask people to add "can we..." on top of the post it.
+         - Ask everyone to think of 2-3 "can we..." questions.
+     - title: Vote on Sprint Questions
+       duration: 600
+       details:
+         - Give everyone 3 votes.
+         - Get everyone to stand up and put their questions on the board/wall...
+         - Let everyone get familiar with questions.
+         - Get everyone to choose the top 3 questions that team needs to focus on.
+         - After the questions have been chosen, get decider to pick on of those as most crucial question.
+     - title: Make a note
+       duration: 300
+       details:
+         - As a facilitator write down the sprint goal and the 3 sprint question which have been voted for on a whiteboard.
+         - This will be a reminder of what team is trying to achieve for the duration of the sprint.
+         - Must be visible to everyone.
+         - You can let people start their comfort break.
+     - title: Comfort break
+       duration: 900
+       details:
+         - Time for refreshments
+     - title: Map
+       duration: 900
+       details:
+         - As a facilitator write down the following on a whiteboard (in form of a table): Header row-Discover, Learn, Use, Goal. Then add a user type in the very first column, e.g. Customer. Now discuss as a team what are customer touchpoint with your services.
+         - Discover-how does, e.g. "customer makes their way to your website", from GoogleAd, Facebook ad, etc.
+         - Learn-How to customer gets more info about the product you offer, e.g. word of mouth, friend recommendation, read more detail on your website or app store.
+         - Use-customer land on your website.
+         - Goal - customer completes a purchase. 
+     - title: Target the map
+       duration: 600
+       details:
+         - Use the HMW post its and place them agains the touch-points
+         - Draw a circle around the touch points where most WHM appear
+     - title: Four part sketch intro
+       duration: 300
+       details:
+         - Explain what is about to happen.
+         - Make sure everyone has some A4 pieces of paper and something to write.
+         - Make sure all the Goal, Sprint Questions, Map are on the wall and everyone can see and access it.
+         - 
+     - title: Notes
+       duration: 600
+       details:
+         - Encourage people to walk around the room and make notes from all the previous exercise.
+         - Get them to copy the Goal and Sprint Question on their piece of paper.
+     - title: Ideas
+       duration: 600
+       details:
+         - Now ask people to turn notes into ideas.
+         - Get them to start sketching, turning their notes into ideas.
+         - Treat it as a warm up exercise for the team before the solution sketch.
+     - title: Crazy 8s
+       duration: 600
+       details:
+         - Ask people to fold paper in half, than in half again, and half one more time...
+         - ...so that there are 8 sections on the A4 piece of paper.
+         - Now ask everyone to look at their note and ideas and sketch few variation of those ideas, something fast.
+     - title: Solution sketch
+       duration: 900
+       details:
+         - Make it anonymous and encourage to sketch one idea, so that it is focused.
+         - Now having taken note, some ideas and different variants it's time for more defined solutions.
+         - This has to be a self explanatory, encourage people to add annotations.
+         - Simple sharpie drawing with annotations in form of post its.
+         - Make sure you make people comfortable with "drawing" and any sketch is a good sketch, no such thing as bad drawing!
+         - Make sure everything is well annotated, words are more important than how it looks like.
+     - title: Comfort break
+       duration: 300
+       details:
+         - Time for a quick break :D
+     - title: Concept gallery
+       duration: 300
+       details:
+         - Stick the concepts from the previous exercise on a wall.
+         - Give each concept enough breathing space to allow people walk around them and talk.
+     - title: Heat map voting
+       duration: 600
+       details:
+         - Give everyone a sheet of dot votes.
+         - Ask people to add votes to the part of the concept that they find interesting.
+         - Encourage them to create a ""heat-map"" from those dots.
+         - If anyone has a question around the concept ask people to write it down on a post-it and put it against the part of the concept they have a question about, try not to get them talk between each other so there is no bias.
+         - TIP-as a facilitator add dots yourself and show everyone else what outcome you expect, which is a lot of dot usage.
+     - title: Speed critique
+       duration: 600
+       details:
+         - Gather the team together and look at ever concept one by one (one at a time).
+         - As a facilitator summarise each concept and put a lot of focus on where most dots are.
+         - Appoint a person who is going to be taking note on post-its while you are summarising. Make sure the focus is on the Big ideas, 2-3 per concept. Then put those notes above the concept
+         - If there are any questions against the concept, this is the time to answer them, Take a question, read it aloud and try to answer it. Not all questions are worth answering, its down to you as a facilitator.
+         - Before you finish this exercise, double check with the team if there is anything that people have voted on and it has not been discussed. or explained. just to clarify if the whole team is on the same page.
+         - TIP-During the heat-map session and when you summarise, make sure to make your own note and how you understand the concept.
+     - title: Straw pull
+       duration: 300
+       details:
+         - Get everyone to pick one concept they believe we should prototype, everyone apart from the decider!
+         - This is the vote that counts.
+         - Give everyone one voting dot and ask them to put their initial on it.
+         - Then get them voting!
+         - Remind them that their choice should reflect the Sprint Goal and Sprint Questions!
+     - title: Vote presentation
+       duration: 600
+       details:
+         - 1 minute per presentation.
+         - Every member of the team will present why the concept they have chosen should be prototyped.
+     - title: The super vote
+       duration: 300
+       details:
+         - Decider makes this vote after listening to everyone's pitch.
+         - This is the final decision.
+         - Ask the decider to look at all the notes, concepts and make sure they remember the Sprint Goal and Sprint Questions!
+         - TIP-Give the decider 2 vote dots and ask to put a star on it, then give them 3 choice. They can use both dots on one concept or choose one concept for the main idea and use the 2nd vote on a feature they would like user tested, or they can choose 2 concepts to be prototyped and tested against each other.
+     - title: Thank you 
+       duration: 300
+       details:
+         - Let everyone know what is going to happen with the ideas and concept and say thank you for contributing!
+- title: Sprint
+   subtitle: Two days squeezed into one full day workshop.
+   desc: Fast-paced workshop which will help you with ideation and decision making. Make sure to do some desk research prior to the workshop to help you guide some decision making during the day. You can achieve loads of stuff  during one day focused workshop. Have fun and innovate!
+   requirements:
+     - Post-its (different colours and sizes)
+     - Voting dots (different colours and sizes)
+     - Sharpies
+     - A4 paper
+     - Some sort of wall or white board to put post-its on
+     - Group of awesome and motivated individuals
+   steps:
+     - title: Introductions
+       duration: 300
+       details:
+         - Make sure every one has a coffee, tea or water
+         - Names and what they good at (how they can contribute)
+         - Happy people makes nicer workshop
+     - title: Set the context
+       duration: 300
+       details:
+         - Tell everyone why they are here.
+         - Distribute the pos-its, sharpies and paper.
+     - title: Warm up activities
+       duration: 1200
+       details:
+         - Choose at your own leisure...
+     - title: Expert interview + HMW?
+       duration: 1500
+       details:
+         - Hand post-its and Sharpies to everyone.
+         - Make sure people have teas, coffees and get people talking.
+         - First ask every one to put HMW? on the top left of the post-it.
+         - Ask everyone to take notes while listening to colleague in form of questions, e.g. How might we...? One question per post-it.
+         - Some conversation starters: What problem are we trying to solve?; Why are we trying to solve that problem?; Who are the end users?; What do we know about the end user?; What product are we proposing to build?
+     - title: Organise the HMWs
+       duration: 600
+       details:
+         - Get everyone off their butts
+         - Ask participants to put the pos-its on a wall/board.
+         - Ask people to categorise and group the post-its. You as a moderator put the category names on a different colour post-it.
+         - Tip-this part gets everyone to read other people ideas, so thats pretty cool!
+     - title: Vote on HMW?
+       duration: 300
+       details:
+         - Give every one 2 voting dots (decider person gets 4 votes).
+         - Ask people to vote for the most important HMW which they think is the one that need most focus.
+         - Create a voting tree. Most votes go on top.
+     - title: Comfort break
+       duration: 600
+       details:
+         - Yeah, that's right... time for a short break!
+     - title: Goal setting
+       duration: 600
+       details:
+         - Depending on the size of the team, ask everyone to write down one goal per post-it. We gonna use a 1-2-4 system...
+         - ... for one minute everyone individually will write down 2-3 goals, one per post-it...
+         - Pair people up and give the 2 minutes to talk about the goal they have written down and refine them...
+         - Now, in groups of 3-4 team will have 4 minutes to talk more about the goals and refine more
+         - Ask each team to put the goals on a white board and as they do it ask them to read out-loud.
+     - title: Vote
+       duration: 300
+       details:
+         - Give everyone one vote.
+         - Cluster the post-its.
+         - Get decider to choose which Goal to focus on.
+     - title: Long-term Goal
+       duration: 300
+       details:
+         - Ask everyone to put "in 2 years time" on the top of the post-it...
+         - Get everyone to write dow what the goal should be. One goal per person!
+         - Get people to put their goals on post-its on a wall and as they do it get them to read the goal out-loud
+     - title: Vote on long-term goal
+       duration: 300
+       details:
+         - Give everyone one vote.
+         - Cluster the post-its.
+         - Get decider to choose which Goal to focus on.
+     - title: Sprint Question
+       duration: 900
+       details:
+         - Get every one to think what can go wrong when trying to achieve the chosen Goal.
+         - Ask people to add "can we..." on top of the post it.
+         - Ask everyone to think of 2-3 "can we..." questions.
+     - title: Vote on Sprint Questions
+       duration: 900
+       details:
+         - Give everyone 3 votes.
+         - Get everyone to stand up and put their questions on the board/wall...
+         - Let everyone get familiar with questions.
+         - Get everyone to choose the top 3 questions that team needs to focus on.
+         - After the questions have been chosen, get decider to pick on of those as most crucial question.
+     - title: Make a note
+       duration: 300
+       details:
+         - As a facilitator write down the sprint goal and the 3 sprint question which have been voted for on a whiteboard.
+         - This will be a reminder of what team is trying to achieve for the duration of the sprint.
+         - Must be visible to everyone.
+         - You can let people start their comfort break.
+     - title: Comfort break
+       duration: 600
+       details:
+         - Time for refreshments
+     - title: Map
+       duration: 1200
+       details:
+         - As a facilitator write down the following on a whiteboard (in form of a table): Header row-Discover, Learn, Use, Goal. Then add a user type in the very first column, e.g. Customer. Now discuss as a team what are customer touchpoint with your services.
+         - Discover-how does, e.g. "customer makes their way to your website", from GoogleAd, Facebook ad, etc.
+         - Learn-How to customer gets more info about the product you offer, e.g. word of mouth, friend recommendation, read more detail on your website or app store.
+         - Use-customer land on your website.
+         - Goal - customer completes a purchase.
+     - title: Target the map
+       duration: 600
+       details:
+         - Use the HMW post its and place them agains the touch-points
+         - Draw a circle around the touch points where most WHM appear
+     - title: Break
+       duration: 3600
+       details:
+         - Time for a well-deserved break and food!
+     - title: Lightning Demos
+       duration: 1500
+       details:
+         - Time for inspirations!
+         - This is a short research thing.
+         - 3 examples per person, group people and ask to assign a note taker (words or sketches), someone who will make notes of all the big ideas.
+         - Ask everyone to browse the internet and search for examples that can be used as a reference to your product.
+         - Encourage people to think outside of your industry, focus on patterns and good examples, whether it's a signup process or web layout.
+     - title: Lighting Demo Presentation
+       duration: 1200
+       details:
+         - Ask for one person from each team to present their ideas and findings.
+         - 4 mins per team.
+         - Encourage everyone to take notes of things which captured their attention.
+     - title: Four part sketch intro
+       duration: 300
+       details:
+         - Explain what is about to happen.
+         - Make sure everyone has some A4 pieces of paper and something to write.
+         - Make sure all the Goal, Sprint Questions, Map are on the wall and everyone can see and access it.
+     - title: Notes
+       duration: 1200
+       details:
+         - Encourage people to walk around the room and make notes from all the previous exercise.
+         - Get them to copy the Goal and Sprint Question on their piece of paper.
+     - title: Ideas
+       duration: 600
+       details:
+         - Now ask people to turn notes into ideas.
+         - Get them to start sketching, turning their notes into ideas.
+         - Treat it as a warm up exercise for the team before the solution sketch.
+     - title: Crazy 8s
+       duration: 600
+       details:
+         - Ask people to fold paper in half, than in half again, and half one more time...
+         - ...so that there are 8 sections on the A4 piece of paper.
+         - Now ask everyone to look at their note and ideas and sketch few variation of those ideas, something fast.
+     - title: Solution sketch
+       duration: 1200
+       details:
+         - Make it anonymous and encourage to sketch one idea, so that it is focused.
+         - Now having taken note, some ideas and different variants it's time for more defined solutions.
+         - This has to be a self explanatory, encourage people to add annotations.
+         - Simple sharpie drawing with annotations in form of post its.
+         - Make sure you make people comfortable with "drawing" and any sketch is a good sketch, no such thing as bad drawing!
+         - Make sure everything is well annotated, words are more important than how it looks like.
+     - title: Comfort break
+       duration: 600
+       details:
+         - Time for refreshments.
+     - title: Concept gallery
+       duration: 300
+       details:
+         - Stick the concepts from the previous exercise on a wall.
+         - Give each concept enough breathing space to allow people walk around them and talk.
+     - title: Heat map voting
+       duration: 900
+       details:
+         - Give everyone a sheet of dot votes.
+         - Ask people to add votes to the part of the concept that they find interesting.
+         - Encourage them to create a ""heat-map"" from those dots.
+         - If anyone has a question around the concept ask people to write it down on a post-it and put it against the part of the concept they have a question about, try not to get them talk between each other so there is no bias.
+         - TIP-as a facilitator add dots yourself and show everyone else what outcome you expect, which is a lot of dot usage.
+     - title: Speed critique
+       duration: 900
+       details:
+         - Gather the team together and look at ever concept one by one (one at a time).
+         - As a facilitator summarise each concept and put a lot of focus on where most dots are.
+         - Appoint a person who is going to be taking note on post-its while you are summarising. Make sure the focus is on the Big ideas, 2-3 per concept. Then put those notes above the concept
+         - If there are any questions against the concept, this is the time to answer them, Take a question, read it aloud and try to answer it. Not all questions are worth answering, its down to you as a facilitator.
+         - Before you finish this exercise, double check with the team if there is anything that people have voted on and it has not been discussed. or explained. just to clarify if the whole team is on the same page.
+         - TIP-During the heat-map session and when you summarise, make sure to make your own note and how you understand the concept.
+     - title: Straw pull
+       duration: 300
+       details:
+         - Get everyone to pick one concept they believe we should prototype, everyone apart from the decider!
+         - This is the vote that counts.
+         - Give everyone one voting dot and ask them to put their initial on it.
+         - Then get them voting!
+         - Remind them that their choice should reflect the Sprint Goal and Sprint Questions!
+     - title: Vote presentation
+       duration: 900
+       details:
+         - 1 minute per presentation.
+         - Every member of the team will present why the concept they have chosen should be prototyped.
+     - title: The super vote
+       duration: 600
+       details:
+         - Decider makes this vote after listening to everyone's pitch.
+         - This is the final decision.
+         - Ask the decider to look at all the notes, concepts and make sure they remember the Sprint Goal and Sprint Questions!
+         - TIP-Give the decider 2 vote dots and ask to put a star on it, then give them 3 choice. They can use both dots on one concept or choose one concept for the main idea and use the 2nd vote on a feature they would like user tested, or they can choose 2 concepts to be prototyped and tested against each other.
+     - title: Thank you 
+       duration: 600
+       details:
+         - Let everyone know what is going to happen with the ideas and concept and say thank you for contributing!
+- title:Design Sprint: Day 1 Map and Sketch
+   subtitle: Day One of Design Sprint 2.0
+   desc: Day One of Design Sprint 2.0 based on the work of Jake Knapp and AJ&Smart (shall we add the link to their youtube channel). This workshop will help you solve big problem very fast! but it requires some knowledge of Design Sprint. Watch the AJ&Smart video or read the book before going full on sprinting. Good luck and have fun!,
+   requirements:
+     - Post-its (different colours and sizes)
+     - Voting dots (different colours and sizes)
+     - Sharpies
+     - A4 paper
+     - Some sort of wall or white board to put post-its on
+     - Group of awesome and motivated individuals
+   steps:
+     - title: Introductions
+       duration: 900
+       details:
+         - Make sure every one has a coffee, tea or water
+         - Get some icebreaker under your sleeve
+         - Happy people makes nicer workshop
+     - title: Explanation,
+       duration: 900
+       details:
+         - Set expectations
+         - Choose a person to be a Decider (they hold the final vote)
+         - Decider should be somebody that is heavily invested in the product, like Product Manager/Owner
+     - title: Expert interview + HMW?
+       duration: 1500
+       details:
+         - Hand post-its and Sharpies to everyone
+         - Make sure people have teas, coffees and get people talking
+         - First ask every one to put HMW? on the top left of the post-it
+         - Ask everyone to take notes while listening to colleague in form of questions, e.g. How might we...? One question per post-it
+         - Some conversation starters; What problem are we trying to solve?; Why are we trying to solve that problem?; Who are the end users?; What do we know about the end user?; What product are we proposing to build?
+     - title: Organise the HMWs
+       duration: 600
+       details:
+         - Get everyone of their butts
+         - Ask participants to put the pos-its on a wall/board
+         - Ask people to categorise and group the post-its. You as a moderator put the category names on a different colour post-it
+         - Tip: this part gets everyone to read other people ideas, so thats pretty cool!
+     - title: Vote on HMW?
+       duration: 600
+       details:
+         - Give every one 2 voting dots (decider person gets 4 votes)
+         - Ask people to vote for the most important HMW which they think is the one that need most focus
+         - Create a voting tree. Most votes go on top
+     - title: Comfort break
+       duration: 300
+       details:
+         - take a coffee or a leak or just get people chatting
+     - title: Long-term Goal
+       duration: 300
+       details:
+         - Ask everyone to put "in 2 years time" on the top of the post-it
+         - Get everyone to write dow what the goal should be. One goal per person!
+         - Get people to put their goals on post-its on a wall and as they do it get them to read the goal out-loud.
+     - title: Vote on long-term goal
+       duration: 300
+       details:
+         - Give everyone one vote
+         - Cluster the post-its
+         - Ask people to vote
+         - Get decider to choose which Goal to focus on (in case of a tie)
+     - title: Sprint Question
+       duration: 900
+       details:
+         - Get every one to think what can go wrong when trying to achieve the chosen Goal
+         - Ask people to add "can we..." on top of the post it
+         - Ask everyone to think of 2-3 "can we..." questions
+     - title: Vote on Sprint Questions
+       duration: 600
+       details:
+         - Give everyone 3 votes
+         - Get everyone to stand up and put their questions on the board/wall
+         - Let everyone get familiar with all the questions
+         - Get everyone to choose the top 3 questions that team needs to focus on
+         - After the question have been chosen, get decider to pick on of those as most crucial question
+     - title: Make a note
+       duration: 300
+       details:
+         - As a facilitator write down the sprint goal and the 3 sprint question which have been voted for on a whiteboard
+         - this will be a reminder of what team is trying to achieve for the duration of the sprint
+         - Must be visible to everyone
+         - You can let people start their comfort break
+     - title: Comfort break
+       duration: 300
+       details:
+         - take a coffee or a leak or just get people chatting
+     - title: Map
+       duration: 1800
+       details:
+         - As a facilitator write down the following on a whiteboard (in form of a table): Header row: Discover, Learn, Use, Goal. Then add a user type in the very first column, e.g. Customer. Now discuss as a team what are customer touchpoint with your services.
+         - Discover-how does, e.g. "a customer make their way to your website". GoogleAd, Facebook ad, etc.
+         - Learn-How to customer gets more info about the product you offer, e.g. word of mouth, friend recommendation, read more detail on your website or app store.
+         - Use-customer land on your website
+         - Goal-customer completes a purchase
+     - title: Target the map
+       duration: 900
+       details:
+         - Use the HMW post its and place them agains the touch-points
+         - Draw a circle around the touch points where most WHM appear
+     - title: Break
+       duration: 3600
+       details:
+         - Time for a coffee/tea and a loo
+     - title: Lightning Demos
+       duration: 1500
+       details:
+         - Time for inspirations!
+         - This is a short research thing
+         - 3 examples per person, group people and ask to assign a note taker (words or sketches), someone who will make notes of all the big ideas
+         - Ask everyone to browse for internet and search for examples that can be used as a reference to your product
+         - Encourage people to think outside of your industry, focus on patterns and good examples, whether its a signup process or web layout.
+     - title: Lighting Demo Presentation
+       duration: 1200
+       details:
+         - Ask for one person from each team to present their ideas and findings
+         - 4 min per team
+         - Encourage everyone to take notes of things that captured their attention
+     - title: Four-part sketch intro
+       duration: 300
+       details:
+         - Explain what is about to happen
+         - Make sure everyone has some A4 pieces of paper and something to write/draw
+         - Make sure all the Goal, Sprint Questions, Map are on the wall and everyone can see and access it
+     - title: Notes
+       duration: 1200
+       details:
+         - Encourage people to walk around the room and make notes from all the previous exercise
+         - Get them to copy the Goal and Sprint Question on their piece of paper
+     - title: Ideas
+       duration: 1200
+       details:
+         - Now ask people to turn notes into ideas
+         - Get them to start sketching, turning their notes into ideas
+         - Treat it as a warm up exercise for the team before the solution
+     - title: Crazy 8s
+       duration: 600
+       details:
+         - Ask people to fold paper in half, than in half again, and half one more time
+         - so that there are 8 sections on the A4 piece of paper
+         - Now ask everyone to look at their note and ideas and sketch few variation of those ideas, something fast
+     - title: Solution sketch
+       duration: 1800
+       details:
+         - Make it anonymous and encourage to sketch one idea, so that it is focused
+         - Now having taken note, some ideas and different variants its time for more defined solutions
+         - This has to be a self explanatory, encourage people to add annotations
+         - Simple sharpie drawing with annotations in form of post its
+         - Make sure you make people comfortable with ""drawings"" and any sketch is a good sketch, no such thing as bad drawing
+         - Make sure everything is well annotated, words are more important than how it looks like
+     - title: Thank you and see yo u tomorrow
+       duration: 600
+       details:
+         - Make sure everything stays where it is (if you can)
+         - or take pictures for reference and collect everything from the walls.
+- title: Design Sprint
+   subtitle: Day 2 Decide and Story-board
+   desc: Day One of Design Sprint 2.0 based on the work of Jake Knapp and AJ&Smart (shall we add the link to their youtube channel). This workshop will help you solve big problem very fast! but it requires some knowledge of Design Sprint. Watch the AJ&Smart video or read the book before going full on sprinting. Good luck and have fun!
+   requirements:
+     - Post-its (different colours and sizes)
+     - Voting dots (different colours)
+     - Sharpies
+     - A4 paper
+     - A big flat surface for all the post-its
+   steps:
+     - title: Concept gallery
+       duration: 300
+       details:
+         - Stick the concepts from the last excise of day one on a wall
+         - Give each concept enough breathing space to allow people walk around them and talk
+     - title: Heat map voting
+       duration: 1200
+       details:
+         - Give everyone a sheet of dot votes
+         - Ask people to add votes to the part of the concept that they find it interesting
+         - Encourage them to create a "heat-map" from those dots
+         - If anyone has a question around the concept ask people to write it down on a post-it and put it against the part of the concept they have a question about, try not to get them talk between each other
+         - Tip: as a facilitator add dots yourself and show everyone else what outcome you expect, which is a lot of dot usage
+     - title: Speed critique
+       duration: 1800
+       details:
+         - Gather the team together and look at ever concept one by one (one at a time)
+         - As a facilitator summarise each concept and put a lot of focus on where most dots are
+         - Appoint a person who is going to be taking note on post-its while you are summarising. Make sure the focus is on the Big ideas, 2-3 per concept. Then put those notes above the concept.
+         - If there are any questions against the concept, this is the time to answer them, Take a question, read it aloud and try to answer it. Not all questions are worth answering, its down to you as a facilitator.
+         - Before you finish this exercise, double check with the team if there is anything that people have voted on and it has not been discussed. or explained. just to clarify if the whole team is on the same page.
+         - Tip:  During the heat-map session and when you summarise, make sure to make your own note and how you understand the concept.
+     - title: Comfort break
+       duration: 300
+       details:
+     - title: Straw pull
+       duration: 300
+       details:
+         - Get everyone to pick one concept they believe we should prototype, everyone apart from the decider!
+         - This is the vote that counts
+         - Give everyone one voting dot and ask them to put their initial on it.
+         - Then get them voting
+         - Remind them that their choice reflect the sprint goal and sprint questions!
+     - title: Vote presentation
+       duration: 900
+       details:
+         - 1 minute per presentation.
+         - Every member of the team will present why the concept should be prototyped
+     - title: The super vote
       duration: 600
       details:
-        - detail 1
-        - detail 2
-    - title: Take a break
-      duration: 60
-      details:
-        - detail 1
-        - detail 2
-    - title: Second work session
-      duration: 600
-      details:
-        - detail 1
-        - detail 2
-    - title: Take a break
-      duration: 60
-      details:
-        - detail 1
-        - detail 2
-    - title: Reflect and organise
-      duration: 120
-      details:
-        - detail 1
-        - detail 2
-- title: Get organised
-  subtitle: Review what you've got on
-  desc: Basic GTD review session
-  requirements:
-    - asdfasdf
-    - wfefwfwef
-    - iuiuhiuhuih
-  steps:
-    - title: collect your tasks
-      duration: 2
-    - title: organise them into urgent and not
-      duration: 2
-- title: Count to 10
-  subtitle: liu awflihu aliuefw
-  desc: fieuwh iwufh lwuehf liauhewf liuhaw efliha lfueih aiwlefuh aliuehf
-  requirements:
-    - asdfasdf
-    - wfefwfwef
-    - iuiuhiuhuih
-  steps:
-    - title: collect your tasks
-      duration: 2
-    - title: organise them into urgent and not
-      duration: 2
+         - Decider makes this vote after listening to everyone's pitch
+         - This is the final decision
+         - Ask the decider to look at all the note, concepts and make sure they remember the Sprint Goal and Sprint questions!
+         - Tip - give the decider 2 vote dots and ask to put a star on it, then give them 3 choice. they can use both don't on one concept or choose one concept for the main idea and use the 2nd vote on a feature they would like user tested. or they can choose 2 concepts to be prototyped and tested against each other.
+     - title: Break
+       duration: 3600
+       details:
+         - 
+     - title: User test flow
+       duration: 1200
+       details:
+         - Distribute post-its and sharpies.
+         - Utilise all the outcomes from all the exercises, e.g. map, goal, sprint questions, and concept! This exercise will be a great start to the storyboard and it will make it much much easier.
+         - Everyone on the team has to write 6 steps (individually). Get them to start with first and last step and then focus on filling in the gap.
+         - Now ask each individual to read every step they have put down as they put it on a board. (decider goes last)
+     - title: User test flow vote
+       duration: 300
+       details:
+         - Everyone gets 1 vote, decider gets 2 votes.
+         - They can choose any flow but make sure to consider the heat-map, goal and sprint goals.
+         - Decider can choose an entire flow with one vote, and use the second vote for an individual step.
+         - once decision is made, circle around the winning flow which we will use during story boarding.
+     - title: Storyboarding
+       duration: 3600
+       details:
+         - Draw 8 rectangles on a board in a 2 row grid. Place the post-its of the winning flow into the empty rectangles.
+         - Tip-The purpose of this exercise tis to leave no open questions for the prototypes, so do not add anything unnecessary or brad new ideas at this stage!
+         - You as a facilitator, facilitate! ask someone from the team to do the sketching, but makes sure they feel comfortable with it.
+         - Now look at all the concepts and find sketches you can re-use! The existing sketches can be now put into the rectangles with the post-its.
+         - Make sure to annotate everything to make the handover to designer much much smoother, and prototype will represent what you have been working hard over the 2 days.
+         - Now you can fill in the empty cells, if 60 minutes was not enough, take a break and carry on.
+     - title: Comfort break
+       duration: 600
+       details:
+         - Quick break
+     - title: Storyboarding pt2 (if needed)
+       duration: 3600
+       details:
+         - This can be skipped unless you need an extra hour.
+     - title: This part of the sprint is now done, time for prototyping
+       duration: 600
+       details:
+         - Tell everyone what is the next step and how the outcome will be used to create prototypes and usability testing/user validation.
+         - Now collect everything and share with the designers

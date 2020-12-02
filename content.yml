@@ -773,42 +773,42 @@
         - Ask the decider to look at all the note, concepts and make sure they remember the Sprint Goal and Sprint questions!
         - Tip - give the decider 2 vote dots and ask to put a star on it, then give them 3 choice. they can use both don't on one concept or choose one concept for the main idea and use the 2nd vote on a feature they would like user tested. or they can choose 2 concepts to be prototyped and tested against each other.
     - title: Break
-        duration: 3600
-        details:
-          - 
+      duration: 3600
+      details:
+        - 
     - title: User test flow
-        duration: 1200
-        details:
-          - Distribute post-its and sharpies.
-          - Utilise all the outcomes from all the exercises, e.g. map, goal, sprint questions, and concept! This exercise will be a great start to the storyboard and it will make it much much easier.
-          - Everyone on the team has to write 6 steps (individually). Get them to start with first and last step and then focus on filling in the gap.
-          - Now ask each individual to read every step they have put down as they put it on a board. (decider goes last)
+      duration: 1200
+      details:
+        - Distribute post-its and sharpies.
+        - Utilise all the outcomes from all the exercises, e.g. map, goal, sprint questions, and concept! This exercise will be a great start to the storyboard and it will make it much much easier.
+        - Everyone on the team has to write 6 steps (individually). Get them to start with first and last step and then focus on filling in the gap.
+        - Now ask each individual to read every step they have put down as they put it on a board. (decider goes last)
     - title: User test flow vote
-        duration: 300
-        details:
-          - Everyone gets 1 vote, decider gets 2 votes.
-          - They can choose any flow but make sure to consider the heat-map, goal and sprint goals.
-          - Decider can choose an entire flow with one vote, and use the second vote for an individual step.
-          - once decision is made, circle around the winning flow which we will use during story boarding.
+      duration: 300
+      details:
+        - Everyone gets 1 vote, decider gets 2 votes.
+        - They can choose any flow but make sure to consider the heat-map, goal and sprint goals.
+        - Decider can choose an entire flow with one vote, and use the second vote for an individual step.
+        - once decision is made, circle around the winning flow which we will use during story boarding.
     - title: Storyboarding
-        duration: 3600
-        details:
-          - Draw 8 rectangles on a board in a 2 row grid. Place the post-its of the winning flow into the empty rectangles.
-          - Tip-The purpose of this exercise tis to leave no open questions for the prototypes, so do not add anything unnecessary or brad new ideas at this stage!
-          - You as a facilitator, facilitate! ask someone from the team to do the sketching, but makes sure they feel comfortable with it.
-          - Now look at all the concepts and find sketches you can re-use! The existing sketches can be now put into the rectangles with the post-its.
-          - Make sure to annotate everything to make the handover to designer much much smoother, and prototype will represent what you have been working hard over the 2 days.
-          - Now you can fill in the empty cells, if 60 minutes was not enough, take a break and carry on.
+      duration: 3600
+      details:
+        - Draw 8 rectangles on a board in a 2 row grid. Place the post-its of the winning flow into the empty rectangles.
+        - Tip-The purpose of this exercise tis to leave no open questions for the prototypes, so do not add anything unnecessary or brad new ideas at this stage!
+        - You as a facilitator, facilitate! ask someone from the team to do the sketching, but makes sure they feel comfortable with it.
+        - Now look at all the concepts and find sketches you can re-use! The existing sketches can be now put into the rectangles with the post-its.
+        - Make sure to annotate everything to make the handover to designer much much smoother, and prototype will represent what you have been working hard over the 2 days.
+        - Now you can fill in the empty cells, if 60 minutes was not enough, take a break and carry on.
     - title: Comfort break
-        duration: 600
-        details:
-          - Quick break
+      duration: 600
+      details:
+        - Quick break
     - title: Storyboarding pt2 (if needed)
-        duration: 3600
-        details:
-          - This can be skipped unless you need an extra hour.
+      duration: 3600
+      details:
+        - This can be skipped unless you need an extra hour.
     - title: This part of the sprint is now done, time for prototyping
-        duration: 600
-        details:
-          - Tell everyone what is the next step and how the outcome will be used to create prototypes and usability testing/user validation.
-          - Now collect everything and share with the designers
+      duration: 600
+      details:
+        - Tell everyone what is the next step and how the outcome will be used to create prototypes and usability testing/user validation.
+        - Now collect everything and share with the designers
